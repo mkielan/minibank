@@ -1,6 +1,6 @@
 # Minibank
 
-TODO: Write a gem description
+OOP example
 
 ## Installation
 
