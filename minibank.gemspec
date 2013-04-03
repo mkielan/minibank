@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Minibank::VERSION
   spec.authors       = ["Piotr Macuk"]
   spec.email         = ["piotr@macuk.pl"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{OOP example}
+  spec.summary       = %q{OOP example}
   spec.homepage      = ""
   spec.license       = "MIT"
 
